@@ -1,7 +1,5 @@
 {
-  "manifest": {
-    "url": "https://tonhydra.com",
-    "appName": "TON Hydra",
-    "iconUrl": "https://raw.githubusercontent.com/UberKuper/tonhydra_public/main/tonhydra_site/ton-connect-manifest/tonhydra_logo_manifest.png"
-  }
+  "url": "https://tonhydra.com",
+  "appName": "TON Hydra",
+  "iconUrl": "https://raw.githubusercontent.com/UberKuper/tonhydra_public/main/tonhydra_site/ton-connect-manifest/tonhydra_logo_manifest.png"
 }
